@@ -1,0 +1,6 @@
+opencv-contrib-python
+cvzone
+numpy
+mediapipe
+scikit-learn
+tensorflow
